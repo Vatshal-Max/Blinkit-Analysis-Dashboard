@@ -1,1 +1,35 @@
+🚀 How to Use
+Follow these steps to explore the Blinkit Analysis project:
+
+1. Clone or Download the Repository
+You can either clone this repo using Git or download the ZIP file directly from GitHub.
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/blinkit-analysis.git
+Or click on Code > Download ZIP on the repo page.
+
+2. Open the Excel File
+Locate the file: project-1.xlsx
+
+Open it using Microsoft Excel (Excel 2016 or newer recommended for full compatibility)
+
+3. Navigate Through Sheets
+Raw Data – View the original dataset used for analysis.
+
+Working – Explore data cleaning, transformation, and calculated fields.
+
+Dashboard – Interact with visualizations using slicers and filters.
+
+4. Use Slicers and Filters
+Apply slicers by Outlet Type, Fat Content, Item Type, etc.
+
+Observe how charts and KPIs dynamically update based on your selections.
+
+5. Analyze Insights
+Review key metrics like Total Sales, Average Rating, and Number of Items sold.
+
+Explore visual trends by Location, Outlet Size, and Product Categories.
+
 
