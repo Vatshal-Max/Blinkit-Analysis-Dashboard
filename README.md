@@ -34,24 +34,24 @@ The dashboard includes the following interactive visualizations:
 - **KPI Metrics**: All KPIs assessed across item types.
 - **Chart Type**: Bar Chart
 
-### 3. **Fat Content by Outlet for Total Sales**
+#### 3. **Fat Content by Outlet for Total Sales**
 - **Objective**: See how sales vary by outlet and fat content.
 - **KPI Metrics**: All KPIs segmented by fat content & outlet.
 - **Chart Type**: Stacked Column Chart
 
-### 4. **Total Sales by Outlet Establishment**
+#### 4. **Total Sales by Outlet Establishment**
 - **Objective**: Measure sales trends based on outlet establishment type or age.
 - **Chart Type**: Line Chart
 
-### 5. **Sales by Outlet Size**
+#### 5. **Sales by Outlet Size**
 - **Objective**: Discover the correlation between outlet size and sales.
 - **Chart Type**: Donut or Pie Chart
 
-### 6. **Sales by Outlet Location**
+#### 6. **Sales by Outlet Location**
 - **Objective**: Analyze geographic trends in sales data.
 - **Chart Type**:Bar chart or Funnel Map
 
-### 7. **All Metrics by Outlet Type**
+#### 7. **All Metrics by Outlet Type**
 - **Objective**: Provide a summary of all KPIs across outlet types.
 - **Chart Type**: Bar Chart
 
