@@ -30,10 +30,10 @@ The following KPIs were calculated and visualized:
 
 The dashboard includes the following interactive visualizations:
 
-## 1. Total Sales by Fat Content
-Objective: Analyze how fat content affects total sales.
-KPI Metrics: Total Sales, Average Sales, Number of Items, Average Rating.
-Chart Type: Donut Chart
+### 1. Total Sales by Fat Content
+- **Objective**: Analyze how fat content affects total sales.
+- **KPI Metrics**: Total Sales, Average Sales, Number of Items, Average Rating.
+- **Chart Type**: Donut Chart
 
 ### 2. **Total Sales by Item Type**
 **Objective**: Compare the performance of different item types.
