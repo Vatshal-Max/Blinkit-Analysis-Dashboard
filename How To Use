@@ -1,18 +1,18 @@
-## 🚀 How to Use
+#How to Use
 Follow these steps to explore the Blinkit Analysis project:
 
-#### 1. Clone or Download the Repository
+1. Clone or Download the Repository
 You can either clone this repo using Git or download the ZIP file directly from GitHub.
 
 https://github.com/Vatshal-Max/Blinkit-Analysis-Dashboard.git
 Or click on Code > Download ZIP on the repo page.
 
-#### 2. Open the Excel File
-Locate the file: Blinkit-Analysis-Dashboard-main.xlsx
+2. Open the Excel File
+- Locate the file: Blinkit-Analysis-Dashboard-main.xlsx
 
-Open it using Microsoft Excel (Excel 2016 or newer recommended for full compatibility)
+- Open it using Microsoft Excel (Excel 2016 or newer recommended for full compatibility)
 
-#### 3. Navigate Through Sheets
+3. Navigate Through Sheets
 - Raw Data – View the original dataset used for analysis.
 
 - Working – Explore data cleaning, transformation, and calculated fields.
@@ -21,12 +21,12 @@ Open it using Microsoft Excel (Excel 2016 or newer recommended for full compatib
 
 - Charts - view all the charts which used in dashboard
 
-#### 4. Use Slicers and Filters
+4. Use Slicers and Filters
 - Apply slicers by Outlet Type, Fat Content, Item Type, etc.
 
 - Observe how charts and KPIs dynamically update based on your selections.
 
-#### 5. Analyze Insights
+5. Analyze Insights
 - Review key metrics like Total Sales, Average Rating, and Number of Items sold.
 
 - Explore visual trends by Location, Outlet Size, and Product Categories.
