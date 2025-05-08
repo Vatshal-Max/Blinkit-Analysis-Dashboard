@@ -60,11 +60,9 @@ The dashboard includes the following interactive visualizations:
 
 - **Microsoft Excel**
   - Pivot Tables
-  - Conditional Formatting
   - Charts: Bar, Line, Pie, Donut, Funnel Map, Matrix
   - Slicers for interactivity
   - Data cleaning & calculated columns
-
 
 ## 📌 Key Insights from the Dashboard
 
