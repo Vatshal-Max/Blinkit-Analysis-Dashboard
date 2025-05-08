@@ -1,7 +1,7 @@
 # 📊Blinkit-Analysis-Dashboard
 Blinkit Analysis is an Excel-based data project that transforms raw sales data into meaningful insights. It features KPI tracking, interactive charts, and visual analysis to explore product trends, outlet performance, and customer behavior across regions.
 
-## 📝Business Requirement
+#### 📝Business Requirement
 
 To conduct a detailed analysis of Blinkit's:
 - Sales performance
@@ -70,8 +70,6 @@ The dashboard includes the following interactive visualizations:
 - **Outlet size and location** have a direct impact on sales performance
 - **Newly established outlets** show varied trends compared to older ones
 - Customer satisfaction remains stable across product categories
-
----
 
 
 
