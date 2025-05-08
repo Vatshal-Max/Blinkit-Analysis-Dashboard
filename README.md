@@ -13,7 +13,7 @@ To conduct a detailed analysis of Blinkit's:
 - Sales performance
 - Customer satisfaction
 - Inventory distribution
-- 
+  
 The goal is to uncover key insights and opportunities for business optimization using various **KPIs** and **data visualizations**.
 
 ## 🎯 KPI Requirements
@@ -36,32 +36,31 @@ The dashboard includes the following interactive visualizations:
 - **Chart Type**: Donut Chart
 
 ### 2. **Total Sales by Item Type**
-**Objective**: Compare the performance of different item types.
-**KPI Metrics**: All KPIs assessed across item types.
-**Chart Type**: Bar Chart
-
-### 3. **Fat Content by Outlet for Total Sales**
-**Objective**: See how sales vary by outlet and fat content.
-**KPI Metrics**: All KPIs segmented by fat content & outlet.
-**Chart Type**: Stacked Column Chart
-
-### 4. **Total Sales by Outlet Establishment**
-**Objective**: Measure sales trends based on outlet establishment type or age.
-**Chart Type**: Line Chart
-
-### 5. **Sales by Outlet Size**
-**Objective**: Discover the correlation between outlet size and sales.
-**Chart Type**: Donut or Pie Chart
-
-### 6. **Sales by Outlet Location**
-**Objective**: Analyze geographic trends in sales data.
-**Chart Type**:Bar chart or Funnel Map
-
-### 7. **All Metrics by Outlet Type**
-**Objective**: Provide a summary of all KPIs across outlet types.
+- **Objective**: Compare the performance of different item types.
+- **KPI Metrics**: All KPIs assessed across item types.
 - **Chart Type**: Bar Chart
 
----
+### 3. **Fat Content by Outlet for Total Sales**
+- **Objective**: See how sales vary by outlet and fat content.
+- **KPI Metrics**: All KPIs segmented by fat content & outlet.
+- **Chart Type**: Stacked Column Chart
+
+### 4. **Total Sales by Outlet Establishment**
+- **Objective**: Measure sales trends based on outlet establishment type or age.
+- **Chart Type**: Line Chart
+
+### 5. **Sales by Outlet Size**
+- **Objective**: Discover the correlation between outlet size and sales.
+- **Chart Type**: Donut or Pie Chart
+
+### 6. **Sales by Outlet Location**
+- **Objective**: Analyze geographic trends in sales data.
+- **Chart Type**:Bar chart or Funnel Map
+
+### 7. **All Metrics by Outlet Type**
+- **Objective**: Provide a summary of all KPIs across outlet types.
+- **Chart Type**: Bar Chart
+
 
 ## 📁 Project Structure
 
