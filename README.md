@@ -73,20 +73,6 @@ The dashboard includes the following interactive visualizations:
 
 ---
 
-## 🚀 How to Use
-
-1. Download the repository or clone it using:
-   ```bash
-   git clone https://github.com/your-username/blinkit-sales-dashboard.git
-Open project-1.xlsx in Microsoft Excel (2016 or later recommended).
-
-Explore the dashboard using slicers, filters, and charts.
-
-📜 License
-This project is open for learning and portfolio use. For any external or commercial use, please seek permission.
-
-⭐ Acknowledgment
-This project is part of a self-learning initiative to improve Excel dashboarding and business analytics skills.
 
 
 
