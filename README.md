@@ -56,7 +56,39 @@ The dashboard includes the following interactive visualizations:
 - **Chart Type**: Bar Chart
 
 
-## 📁 Project Structure
+## 💻 Tools & Techniques Used
+
+- **Microsoft Excel**
+  - Pivot Tables
+  - Conditional Formatting
+  - Charts: Bar, Line, Pie, Donut, Funnel Map, Matrix
+  - Slicers for interactivity
+  - Data cleaning & calculated columns
+
+
+## 📌 Key Insights from the Dashboard
+
+- Sales are significantly influenced by **fat content** and **item type**
+- **Outlet size and location** have a direct impact on sales performance
+- **Newly established outlets** show varied trends compared to older ones
+- Customer satisfaction remains stable across product categories
+
+---
+
+## 🚀 How to Use
+
+1. Download the repository or clone it using:
+   ```bash
+   git clone https://github.com/your-username/blinkit-sales-dashboard.git
+Open project-1.xlsx in Microsoft Excel (2016 or later recommended).
+
+Explore the dashboard using slicers, filters, and charts.
+
+📜 License
+This project is open for learning and portfolio use. For any external or commercial use, please seek permission.
+
+⭐ Acknowledgment
+This project is part of a self-learning initiative to improve Excel dashboarding and business analytics skills.
 
 
 
