@@ -1,7 +1,7 @@
 # 📊Blinkit-Analysis-Dashboard
 Blinkit Analysis is an Excel-based data project that transforms raw sales data into meaningful insights. It features KPI tracking, interactive charts, and visual analysis to explore product trends, outlet performance, and customer behavior across regions.
 
-#### 📝Business Requirement
+## 📝Business Requirement
 
 To conduct a detailed analysis of Blinkit's:
 - Sales performance
@@ -24,12 +24,12 @@ The following KPIs were calculated and visualized:
 
 The dashboard includes the following interactive visualizations:
 
-### 1. Total Sales by Fat Content
+#### 1. Total Sales by Fat Content
 - **Objective**: Analyze how fat content affects total sales.
 - **KPI Metrics**: Total Sales, Average Sales, Number of Items, Average Rating.
 - **Chart Type**: Donut Chart
 
-### 2. **Total Sales by Item Type**
+#### 2. **Total Sales by Item Type**
 - **Objective**: Compare the performance of different item types.
 - **KPI Metrics**: All KPIs assessed across item types.
 - **Chart Type**: Bar Chart
