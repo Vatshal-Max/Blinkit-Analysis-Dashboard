@@ -59,10 +59,10 @@ The dashboard includes the following interactive visualizations:
 ## 💻 Tools & Techniques Used
 
 - **Microsoft Excel**
-  - Pivot Tables
-  - Charts: Bar, Line, Pie, Donut, Funnel Map, Matrix
-  - Slicers for interactivity
-  - Data cleaning & calculated columns
+- Pivot Tables
+- Charts: Bar, Line, Pie, Donut, Funnel Map, Matrix
+- Slicers for interactivity
+- Data cleaning & calculated columns
 
 ## 📌 Key Insights from the Dashboard
 
